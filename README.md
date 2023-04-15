@@ -1,1 +1,2 @@
-# EliBs
+# HOTEL-TEAMS
+Proyecto del hotel
